@@ -46,7 +46,7 @@ Traditional JSON editors show you raw text. JSON Pro shows you **data**. Just li
 ### Quick Install
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/json-pro.git
+git clone https://github.com/2MMisha/JsonPRO
 cd json-pro
 
 # Install dependencies
