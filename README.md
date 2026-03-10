@@ -1,6 +1,3 @@
-# JsonPRO
-Json as sheetspreads editor
-
 # JSON Pro - Spreadsheet-Style JSON Editor
 
 A powerful desktop application that transforms JSON data into an intuitive spreadsheet interface. Edit, manage, and visualize JSON, CSV, and Excel files just like you would in Google Sheets or Excel, but with native JSON support.
